@@ -1,0 +1,22 @@
+
+.container-principal{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.container-resultado{
+    
+    height: 100px;
+    width: 300px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.resultado{
+    width: 80%;
+    height: 40%;
+    border: 1px solid gray;
+    margin: auto;
+}
